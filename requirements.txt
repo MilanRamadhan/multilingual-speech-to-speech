@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+gradio
+google-genai
+coqui-tts
+python-dotenv

@@ -1,0 +1,607 @@
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+NORMALIZED:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('bookfly', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('minggu', 'ID'), ('depan', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule', 'EN')]
+RESPONSE:
+Saya mendengar kamu mengatakan: Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+NORMALIZED:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('bookfly', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('minggu', 'ID'), ('depan', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule', 'EN')]
+RESPONSE:
+Saya mendengar kamu mengatakan: Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+NORMALIZED:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('bookfly', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('minggu', 'ID'), ('depan', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule', 'EN')]
+RESPONSE:
+Saya mendengar kamu mengatakan: Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+
+====================
+TRANSCRIPT:
+Aku butuh travel umroh simple tapi include Madinah Fisit.
+NORMALIZED:
+Aku butuh travel umroh simple tapi include Madinah Fisit.
+TAGS:
+[('Aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umroh', 'ID'), ('simple', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('Madinah', 'ID'), ('Fisit.', 'ID')]
+RESPONSE:
+Saya mendengar kamu mengatakan: Aku butuh travel umroh simple tapi include Madinah Fisit.
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+NORMALIZED:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('bookfly', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('minggu', 'ID'), ('depan', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule', 'EN')]
+RESPONSE:
+Saya mendengar kamu mengatakan: Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+NORMALIZED:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('bookfly', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('minggu', 'ID'), ('depan', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule', 'EN')]
+RESPONSE:
+Tentu, saya bisa membantu menjadwalkan penerbangan kamu ke Jeddah minggu depan.
+
+====================
+TRANSCRIPT:
+Aku butuh travel umroh simple tapi include Madinah Fisit.
+NORMALIZED:
+Aku butuh travel umroh simple tapi include Madinah Fisit.
+TAGS:
+[('Aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umroh', 'ID'), ('simple', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('Madinah', 'ID'), ('Fisit.', 'ID')]
+RESPONSE:
+Baik, saya sudah memahami permintaan kamu.
+
+====================
+TRANSCRIPT:
+bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang
+NORMALIZED:
+bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang
+TAGS:
+[('bagaimana', 'ID'), ('proses', 'ID'), ('visa', 'ID'), ('Saudi', 'ID'), ('untuk', 'ID'), ('umroh', 'ID'), ('dari', 'ID'), ('Indonesia', 'ID'), ('sekarang', 'ID')]
+RESPONSE:
+Baik, saya sudah memahami permintaan kamu.
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+NORMALIZED:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('bookfly', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('minggu', 'ID'), ('depan', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule', 'EN')]
+RESPONSE:
+Tentu, saya bisa membantu menjadwalkan penerbangan kamu ke Jeddah minggu depan.
+
+====================
+TRANSCRIPT:
+Uridu arranged transport min Jeddah ila Madinah Gadan.
+NORMALIZED:
+Uridu arranged transport min Jeddah ila Madinah Gadan.
+TAGS:
+[('Uridu', 'ID'), ('arranged', 'ID'), ('transport', 'EN'), ('min', 'ID'), ('Jeddah', 'ID'), ('ila', 'ID'), ('Madinah', 'ID'), ('Gadan.', 'ID')]
+RESPONSE:
+Baik, saya sudah memahami permintaan kamu.
+
+====================
+TRANSCRIPT:
+Ya akhi, huridu buk flaik ila jeddah al-usbu' al-qadim, hal bisa bantu ajidah afdal skedul wa rihlatan mubashiroh?
+NORMALIZED:
+Ya akhi, huridu buk flaik ila jeddah al-usbu' al-qadim, hal bisa bantu ajidah afdal skedul wa rihlatan mubashiroh?
+TAGS:
+[('Ya', 'ID'), ('akhi,', 'ID'), ('huridu', 'ID'), ('buk', 'ID'), ('flaik', 'ID'), ('ila', 'ID'), ('jeddah', 'ID'), ("al-usbu'", 'ID'), ('al-qadim,', 'ID'), ('hal', 'ID'), ('bisa', 'ID'), ('bantu', 'ID'), ('ajidah', 'ID'), ('afdal', 'ID'), ('skedul', 'ID'), ('wa', 'ID'), ('rihlatan', 'ID'), ('mubashiroh?', 'ID')]
+RESPONSE:
+None
+
+====================
+TRANSCRIPT:
+Ya akhi, huridu buk flaik ila jeddah al-usbu' al-qadim, hal bisa bantu ajidah afdal skedul wa rihlatan mubashiroh?
+NORMALIZED:
+Ya akhi, huridu buk flaik ila jeddah al-usbu' al-qadim, hal bisa bantu ajidah afdal skedul wa rihlatan mubashiroh?
+TAGS:
+[('Ya', 'ID'), ('akhi,', 'ID'), ('huridu', 'ID'), ('buk', 'ID'), ('flaik', 'ID'), ('ila', 'ID'), ('jeddah', 'ID'), ("al-usbu'", 'ID'), ('al-qadim,', 'ID'), ('hal', 'ID'), ('bisa', 'ID'), ('bantu', 'ID'), ('ajidah', 'ID'), ('afdal', 'ID'), ('skedul', 'ID'), ('wa', 'ID'), ('rihlatan', 'ID'), ('mubashiroh?', 'ID')]
+RESPONSE:
+()
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+NORMALIZED:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('bookfly', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('minggu', 'ID'), ('depan', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule', 'EN')]
+RESPONSE:
+Tentu, saya bisa membantu menjadwalkan penerbangan kamu ke Jeddah minggu depan.
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+NORMALIZED:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('bookfly', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('minggu', 'ID'), ('depan', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule', 'EN')]
+RESPONSE:
+Tentu, saya bisa membantu menjadwalkan penerbangan kamu ke Jeddah minggu depan.
+
+====================
+TRANSCRIPT:
+Thank you.
+NORMALIZED:
+Thank you.
+TAGS:
+[('Thank', 'ID'), ('you.', 'ID')]
+RESPONSE:
+Baik, saya sudah memahami permintaan kamu.
+
+====================
+TRANSCRIPT:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+NORMALIZED:
+Aku mau bookfly ke Jeddah minggu depan
+ Bisa bantu schedule
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('bookfly', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('minggu', 'ID'), ('depan', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule', 'EN')]
+RESPONSE:
+Tentu bisa, aku siap bantu kamu cari schedule flight terbaik
+
+====================
+TRANSCRIPT:
+Ya akhi, huridu buk flaik ila jeddah al-usbu' al-qadim, hal bisa bantu ajidah afdal skedul wa rihlatan mubashiroh?
+NORMALIZED:
+Ya akhi, huridu buk flaik ila jeddah al-usbu' al-qadim, hal bisa bantu ajidah afdal skedul wa rihlatan mubashiroh?
+TAGS:
+[('Ya', 'ID'), ('akhi,', 'ID'), ('huridu', 'ID'), ('buk', 'ID'), ('flaik', 'ID'), ('ila', 'ID'), ('jeddah', 'ID'), ("al-usbu'", 'ID'), ('al-qadim,', 'ID'), ('hal', 'ID'), ('bisa', 'ID'), ('bantu', 'ID'), ('ajidah', 'ID'), ('afdal', 'ID'), ('skedul', 'ID'), ('wa', 'ID'), ('rihlatan', 'ID'), ('mubashiroh?', 'ID')]
+RESPONSE:
+Na'am ya akhi, tentu saya bisa
+
+====================
+TRANSCRIPT:
+Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+NORMALIZED:
+Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+TAGS:
+[('Can', 'ID'), ('you', 'ID'), ('help', 'ID'), ('aku', 'ID'), ('arrange', 'ID'), ('transport', 'EN'), ('dari', 'ID'), ('Jeddah', 'ID'), ('ke', 'ID'), ('Madinah', 'ID'), ('tomorrow?', 'ID')]
+RESPONSE:
+Tentu, aku bisa bantu kasih rekomendasi
+
+====================
+TRANSCRIPT:
+Aku butuh travel umroh simple tapi include Madinah Fisit.
+NORMALIZED:
+Aku butuh travel umroh simple tapi include Madinah Fisit.
+TAGS:
+[('Aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umroh', 'ID'), ('simple', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('Madinah', 'ID'), ('Fisit.', 'ID')]
+RESPONSE:
+Banyak travel agent yang menyediakan paket umrah sy
+
+====================
+TIMESTAMP: 1779697361
+TRANSCRIPT:
+Jelaskan step by step cara booking flight ke Jeddah secara online.
+NORMALIZED:
+Jelaskan step by step cara booking flight ke Jeddah secara online.
+TAGS:
+[('Jelaskan', 'ID'), ('step', 'ID'), ('by', 'ID'), ('step', 'ID'), ('cara', 'ID'), ('booking', 'EN'), ('flight', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('secara', 'ID'), ('online.', 'ID')]
+RESPONSE:
+Pertama, kamu bisa buka online travel agent favoritmu atau website resmi maskapai seperti Saud
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779697361.wav
+
+====================
+TIMESTAMP: 1779697546
+TRANSCRIPT:
+Jelaskan step by step cara booking flight ke Jeddah secara online.
+NORMALIZED:
+Jelaskan step by step cara booking flight ke Jeddah secara online.
+TAGS:
+[('Jelaskan', 'ID'), ('step', 'ID'), ('by', 'ID'), ('step', 'ID'), ('cara', 'ID'), ('booking', 'EN'), ('flight', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('secara', 'ID'), ('online.', 'ID')]
+RESPONSE:
+Pertama, buka aplikasi travel online atau website resmi maskapai pilihan kamu, lalu masukkan rute keber
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779697546.wav
+
+====================
+TIMESTAMP: 1779697949
+TRANSCRIPT:
+
+NORMALIZED:
+
+TAGS:
+[]
+RESPONSE:
+Ahlan wa sahlan, ada yang bisa saya bantu hari ini? Feel free to ask me anything
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779697949.wav
+
+====================
+TIMESTAMP: 1779698313
+TRANSCRIPT:
+
+NORMALIZED:
+
+TAGS:
+[]
+RESPONSE:
+Ahlan wa sahlan, selamat datang di chat ini where we can talk about anything
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779698313.wav
+
+====================
+TIMESTAMP: 1779699435
+TRANSCRIPT:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+NORMALIZED:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('book', 'EN'), ('fly', 'ID'), ('ke', 'ID'), ('jedah', 'ID'), ('minggu', 'ID'), ('depan.', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule?', 'EN')]
+RESPONSE:
+Tentu, aku bisa bantu schedule flight kamu ke Jeddah buat minggu depan. Tolong infoin aja exact date yang kamu mau dan budget preference-nya biar bisa langsung aku bantu cariin opsi penerbangan terbaiknya.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779699435.wav
+
+====================
+TIMESTAMP: 1779699500
+TRANSCRIPT:
+Aku butuh travel umrah simple, tapi include Madhuna Visik.
+NORMALIZED:
+Aku butuh travel umrah simple, tapi include Madhuna Visik.
+TAGS:
+[('Aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umrah', 'ID'), ('simple,', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('Madhuna', 'ID'), ('Visik.', 'ID')]
+RESPONSE:
+Banyak travel agent yang menyediakan paket Umrah simple 9 hari yang sudah include Madinah
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779699500.wav
+
+====================
+TIMESTAMP: 1779699808
+TRANSCRIPT:
+Aku butuh travel umrah simple, tapi include Madhuna Visik.
+NORMALIZED:
+Aku butuh travel umrah simple, tapi include Madhuna Visik.
+TAGS:
+[('Aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umrah', 'ID'), ('simple,', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('Madhuna', 'ID'), ('Visik.', 'ID')]
+RESPONSE:
+Banyak travel agent yang menyediakan paket Umrah backpacker atau syariah yang simple tapi
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779699808.wav
+
+====================
+TIMESTAMP: 1779699840
+TRANSCRIPT:
+Can you help aku arrange transport dari Jedah ke Madina tomorrow?
+NORMALIZED:
+Can you help aku arrange transport dari Jedah ke Madina tomorrow?
+TAGS:
+[('Can', 'ID'), ('you', 'ID'), ('help', 'ID'), ('aku', 'ID'), ('arrange', 'ID'), ('transport', 'EN'), ('dari', 'ID'), ('Jedah', 'ID'), ('ke', 'ID'), ('Madina', 'ID'), ('tomorrow?', 'ID')]
+RESPONSE:
+Tentu, ana bisa bantu carikan opsi terbaik untuk safar kamu besok dari Jeddah ke Mad
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779699840.wav
+
+====================
+TIMESTAMP: 1779701394
+TRANSCRIPT:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+NORMALIZED:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('book', 'EN'), ('fly', 'ID'), ('ke', 'ID'), ('jedah', 'ID'), ('minggu', 'ID'), ('depan.', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule?', 'EN')]
+RESPONSE:
+Tentu, aku bisa bantu arrange schedule flight kamu ke Jeddah untuk minggu depan. Silakan beri tahu tanggal keberangkatan yang kamu prefer agar aku bisa langsung carikan opsi maskapai terbaik. Setelah itu, kita bisa langsung finalize detail booking kamu dengan cepat.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779701394.wav
+
+====================
+TIMESTAMP: 1779701564
+TRANSCRIPT:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+NORMALIZED:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('book', 'EN'), ('fly', 'ID'), ('ke', 'ID'), ('jedah', 'ID'), ('minggu', 'ID'), ('depan.', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule?', 'EN')]
+RESPONSE:
+Tentu, saya bisa membantu memesankan tiket dan mengatur jadwal penerbangan Anda ke Jeddah untuk minggu depan. Silakan informasikan tanggal keberangkatan yang Anda inginkan agar bisa segera saya proses.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779701564.wav
+
+====================
+TIMESTAMP: 1779703091
+TRANSCRIPT:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+NORMALIZED:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('book', 'EN'), ('fly', 'ID'), ('ke', 'ID'), ('jedah', 'ID'), ('minggu', 'ID'), ('depan.', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule?', 'EN')]
+RESPONSE:
+Tentu saja, saya bisa membantu menjadwalkan penerbangan Anda ke Jeddah untuk minggu depan. Silakan beri tahu saya tanggal keberangkatan yang Anda inginkan agar saya bisa langsung mencarikan pilihan tiket terbaik.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779703091.wav
+
+====================
+TIMESTAMP: 1779703330
+TRANSCRIPT:
+Aku butuh travel umrah simple, tapi include Madhuna Visik.
+NORMALIZED:
+Aku butuh travel umrah simple, tapi include Madhuna Visik.
+TAGS:
+[('Aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umrah', 'ID'), ('simple,', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('Madhuna', 'ID'), ('Visik.', 'ID')]
+RESPONSE:
+"
+
+5.  **Final Polish**:
+    Saya bisa membantu mencarikan paket perjalanan umrah sederhana yang sudah termasuk kunjungan ke Mad
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1779703330.wav
+
+====================
+TIMESTAMP: 1780082324
+TRANSCRIPT:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+NORMALIZED:
+Aku mau book fly ke jedah minggu depan. Bisa bantu schedule?
+TAGS:
+[('Aku', 'ID'), ('mau', 'ID'), ('book', 'EN'), ('fly', 'ID'), ('ke', 'ID'), ('jedah', 'ID'), ('minggu', 'ID'), ('depan.', 'ID'), ('Bisa', 'ID'), ('bantu', 'ID'), ('schedule?', 'EN')]
+RESPONSE:
+Tentu, saya bisa membantu mengatur penerbangan Anda ke Jeddah untuk minggu depan. Silakan beritahu tanggal keberangkatan yang Anda inginkan agar bisa segera saya carikan pilihan terbaik.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780082324.wav
+
+====================
+TIMESTAMP: 1780083806
+TRANSCRIPT:
+Aku butuh travel umrah simple, tapi include Madhuna Visik.
+NORMALIZED:
+Aku butuh travel umrah simple, tapi include Madhuna Visik.
+TAGS:
+[('Aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umrah', 'ID'), ('simple,', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('Madhuna', 'ID'), ('Visik.', 'ID')]
+RESPONSE:
+2-3 short sentences?
+            Sentence 1: Kami menyediakan pilihan paket perjalanan ibadah sederhana yang sudah termasuk dengan kunjungan ke Madinah.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780083806.wav
+
+====================
+TIMESTAMP: 1780083983
+TRANSCRIPT:
+Can you help aku arrange transport dari Jedah ke Madina tomorrow?
+NORMALIZED:
+Can you help aku arrange transport dari Jedah ke Madina tomorrow?
+TAGS:
+[('Can', 'ID'), ('you', 'ID'), ('help', 'ID'), ('aku', 'ID'), ('arrange', 'ID'), ('transport', 'EN'), ('dari', 'ID'), ('Jedah', 'ID'), ('ke', 'ID'), ('Madina', 'ID'), ('tomorrow?', 'ID')]
+RESPONSE:
+Tentu saja, saya siap membantu mengatur transportasi dari Jeddah ke Madinah untuk besok. Ada beberapa pilihan kendaraan seperti kereta cepat atau mobil sewaan yang bisa digunakan untuk perjalanan tersebut.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780083983.wav
+
+====================
+TIMESTAMP: 1780084063
+TRANSCRIPT:
+Explain step-by-step cara apply visa Saudi dengan benar.
+NORMALIZED:
+Explain step-by-step cara apply visa Saudi dengan benar.
+TAGS:
+[('Explain', 'ID'), ('step-by-step', 'ID'), ('cara', 'ID'), ('apply', 'ID'), ('visa', 'ID'), ('Saudi', 'ID'), ('dengan', 'ID'), ('benar.', 'ID')]
+RESPONSE:
+**:
+    *   No formatting (*, **, #, bullets): Checked.
+    *   Max 2-3 short sentences: Checked (3 sentences
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780084063.wav
+
+====================
+TIMESTAMP: 1780084221
+TRANSCRIPT:
+Explain step-by-step cara apply visa Saudi dengan benar.
+NORMALIZED:
+Explain step-by-step cara apply visa Saudi dengan benar.
+TAGS:
+[('Explain', 'ID'), ('step-by-step', 'ID'), ('cara', 'ID'), ('apply', 'ID'), ('visa', 'ID'), ('Saudi', 'ID'), ('dengan', 'ID'), ('benar.', 'ID')]
+RESPONSE:
+Pertama Anda harus mengunjungi situs resmi visa elektronik Arab Saudi atau aplikasi Tasheer untuk membuat akun baru. Setelah itu isi formulir aplikasi online dengan lengkap dan unggah dokumen pendukung seperti paspor aktif serta foto terbaru. Terakhir lakukan pembayaran biaya visa secara online dan tunggu persetujuan yang akan dikirimkan langsung ke surat elektronik Anda.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780084221.wav
+
+====================
+TIMESTAMP: 1780084350
+TRANSCRIPT:
+Explain step-by-step cara apply visa Saudi dengan benar.
+NORMALIZED:
+Explain step-by-step cara apply visa Saudi dengan benar.
+TAGS:
+[('Explain', 'ID'), ('step-by-step', 'ID'), ('cara', 'ID'), ('apply', 'ID'), ('visa', 'ID'), ('Saudi', 'ID'), ('dengan', 'ID'), ('benar.', 'ID')]
+RESPONSE:
+Anda perlu mengunjungi situs resmi pengajuan visa Arab Saudi dan membuat akun terlebih dahulu. Kemudian isi formulir pendaftaran, unggah dokumen pendukung seperti paspor dan pasfoto, lalu bayar biaya visa secara daring. Setelah pembayaran selesai, tunggu proses verifikasi hingga visa resmi dikirimkan langsung ke alamat surat elektronik Anda.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780084350.wav
+
+====================
+TIMESTAMP: 1780084646
+TRANSCRIPT:
+Ya akhi, uridu book flight ilah Jeddah al-Uzbu al-Kodim. Hal bisa bantu Ajida Afdal schedule warih latan Mubash Hiroh.
+NORMALIZED:
+Ya akhi, uridu book flight ilah Jeddah al-Uzbu al-Kodim. Hal bisa bantu Ajida Afdal schedule warih latan Mubash Hiroh.
+TAGS:
+[('Ya', 'ID'), ('akhi,', 'ID'), ('uridu', 'ID'), ('book', 'EN'), ('flight', 'EN'), ('ilah', 'ID'), ('Jeddah', 'ID'), ('al-Uzbu', 'ID'), ('al-Kodim.', 'ID'), ('Hal', 'ID'), ('bisa', 'ID'), ('bantu', 'ID'), ('Ajida', 'ID'), ('Afdal', 'ID'), ('schedule', 'EN'), ('warih', 'ID'), ('latan', 'ID'), ('Mubash', 'ID'), ('Hiroh.', 'ID')]
+RESPONSE:
+Tentu saja, saya bisa membantu mencari jadwal penerbangan langsung terbaik dan paling nyaman ke Jeddah untuk minggu depan. Silakan informasikan kota keberangkatan dan tanggal pasti yang Anda inginkan. Saya akan segera mencarikan beberapa pilihan tiket terbaik untuk Anda.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780084646.wav
+
+====================
+TIMESTAMP: 1780084866
+TRANSCRIPT:
+Uridu Range Transport Minje Dah ilama Dina Gwadan
+NORMALIZED:
+Uridu Range Transport Minje Dah ilama Dina Gwadan
+TAGS:
+[('Uridu', 'ID'), ('Range', 'ID'), ('Transport', 'EN'), ('Minje', 'ID'), ('Dah', 'ID'), ('ilama', 'ID'), ('Dina', 'ID'), ('Gwadan', 'ID')]
+RESPONSE:
+Saya siap membantu Anda mengatur transportasi dari Jeddah ke Madinah untuk besok. Silakan beri tahu saya jenis kendaraan yang ingin Anda gunakan agar saya bisa langsung memesannya.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780084866.wav
+
+====================
+TIMESTAMP: 1780085131
+TRANSCRIPT:
+bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang
+NORMALIZED:
+bagaimana proses visa Saudi untuk umroh dari Indonesia sekarang
+TAGS:
+[('bagaimana', 'ID'), ('proses', 'ID'), ('visa', 'ID'), ('Saudi', 'ID'), ('untuk', 'ID'), ('umroh', 'ID'), ('dari', 'ID'), ('Indonesia', 'ID'), ('sekarang', 'ID')]
+RESPONSE:
+Proses visa umrah saat ini sangat mudah karena bisa diajukan secara daring melalui platform Nusuk atau jasa agen travel resmi. Anda hanya perlu mempersiapkan paspor yang berlaku minimal enam bulan dan pasfoto terbaru. Setelah semua dokumen diunggah dan pembayaran selesai, visa elektronik akan langsung diterbitkan secara cepat.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780085131.wav
+
+====================
+TIMESTAMP: 1780085238
+TRANSCRIPT:
+Jelaskan step by step cara booking flight ke Jeddah secara online.
+NORMALIZED:
+Jelaskan step by step cara booking flight ke Jeddah secara online.
+TAGS:
+[('Jelaskan', 'ID'), ('step', 'ID'), ('by', 'ID'), ('step', 'ID'), ('cara', 'ID'), ('booking', 'EN'), ('flight', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('secara', 'ID'), ('online.', 'ID')]
+RESPONSE:
+Pertama, buka situs atau aplikasi pemesanan tiket pesawat tepercaya pilihan Anda. Kemudian, masukkan kota keberangkatan, tujuan ke Jeddah, tanggal perjalanan, lalu pilih jadwal penerbangan yang sesuai. Terakhir, isi data diri penumpang dengan lengkap dan lakukan pembayaran online untuk mendapatkan tiket elektronik.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780085238.wav
+
+====================
+TIMESTAMP: 1780085371
+TRANSCRIPT:
+How to prepare dokumen umroh dari Indonesia dengan benar?
+NORMALIZED:
+How to prepare dokumen umroh dari Indonesia dengan benar?
+TAGS:
+[('How', 'ID'), ('to', 'ID'), ('prepare', 'ID'), ('dokumen', 'ID'), ('umroh', 'ID'), ('dari', 'ID'), ('Indonesia', 'ID'), ('dengan', 'ID'), ('benar?', 'ID')]
+RESPONSE:
+Persiapkan paspor aktif dengan masa berlaku minimal enam bulan serta nama minimal dua kata. Lengkapi dokumen dengan visa umroh dari agen perjalanan resmi dan kartu kuning vaksinasi meningitis. Siapkan juga dokumen pendukung seperti buku nikah atau akta kelahiran jika Anda pergi bersama keluarga.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780085371.wav
+
+====================
+TIMESTAMP: 1780085479
+TRANSCRIPT:
+Menurut kamu belajar bahasa Arab itu susah gak untuk pemula?
+NORMALIZED:
+Menurut kamu belajar bahasa Arab itu susah gak untuk pemula?
+TAGS:
+[('Menurut', 'ID'), ('kamu', 'ID'), ('belajar', 'ID'), ('bahasa', 'ID'), ('Arab', 'ID'), ('itu', 'ID'), ('susah', 'ID'), ('gak', 'ID'), ('untuk', 'ID'), ('pemula?', 'ID')]
+RESPONSE:
+Belajar bahasa Arab memang memiliki tantangan tersendiri bagi pemula karena perbedaan aksara dan tata bahasanya. Namun, bahasa ini tidak sesulit yang dibayangkan jika kamu mempelajarinya secara konsisten dari dasar. Dengan metode belajar yang tepat, siapa saja pasti bisa menguasai bahasa Arab dengan baik.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780085479.wav
+
+====================
+TIMESTAMP: 1780085583
+TRANSCRIPT:
+Ya akhi, huridu buk flaik ila jeddah al-usbu' al-qadim, hal bisa bantu ajidah afdal skedul wa rihlatan mubashiroh?
+NORMALIZED:
+Ya akhi, huridu buk flaik ila jeddah al-usbu' al-qadim, hal bisa bantu ajidah afdal skedul wa rihlatan mubashiroh?
+TAGS:
+[('Ya', 'ID'), ('akhi,', 'ID'), ('huridu', 'ID'), ('buk', 'ID'), ('flaik', 'ID'), ('ila', 'ID'), ('jeddah', 'ID'), ("al-usbu'", 'ID'), ('al-qadim,', 'ID'), ('hal', 'ID'), ('bisa', 'ID'), ('bantu', 'ID'), ('ajidah', 'ID'), ('afdal', 'ID'), ('skedul', 'ID'), ('wa', 'ID'), ('rihlatan', 'ID'), ('mubashiroh?', 'ID')]
+RESPONSE:
+Tentu, saya bisa membantu mencarikan jadwal penerbangan langsung terbaik ke Jeddah untuk minggu depan. Silakan beri tahu kota asal keberangkatan Anda agar saya bisa langsung mencarikan pilihan yang paling sesuai. Saya akan segera memberikan rekomendasi jadwal terbaik untuk perjalanan Anda.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780085583.wav
+
+====================
+TIMESTAMP: 1780085842
+TRANSCRIPT:
+Ya akhi, uridu book flight ila Jeddah al-usbu' al-qadim. Hal bisa bantu ajida afdhal schedule wa rihlatan mubashirah?
+NORMALIZED:
+Ya akhi, uridu book flight ila Jeddah al-usbu' al-qadim. Hal bisa bantu ajida afdhal schedule wa rihlatan mubashirah?
+TAGS:
+[('Ya', 'ID'), ('akhi,', 'ID'), ('uridu', 'ID'), ('book', 'EN'), ('flight', 'EN'), ('ila', 'ID'), ('Jeddah', 'ID'), ("al-usbu'", 'ID'), ('al-qadim.', 'ID'), ('Hal', 'ID'), ('bisa', 'ID'), ('bantu', 'ID'), ('ajida', 'ID'), ('afdhal', 'ID'), ('schedule', 'EN'), ('wa', 'ID'), ('rihlatan', 'ID'), ('mubashirah?', 'ID')]
+RESPONSE:
+Tentu, saya bisa membantu Anda mencari jadwal penerbangan langsung terbaik ke Jeddah untuk minggu depan. Silakan beri tahu kota asal keberangkatan Anda agar bisa langsung saya periksa pilihannya.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780085842.wav
+
+====================
+TIMESTAMP: 1780085993
+TRANSCRIPT:
+Explain step by step cara apply visa Saudi dengan benar.
+NORMALIZED:
+Explain step by step cara apply visa Saudi dengan benar.
+TAGS:
+[('Explain', 'ID'), ('step', 'ID'), ('by', 'ID'), ('step', 'ID'), ('cara', 'ID'), ('apply', 'ID'), ('visa', 'ID'), ('Saudi', 'ID'), ('dengan', 'ID'), ('benar.', 'ID')]
+RESPONSE:
+Pertama, Anda perlu membuat akun dan mengisi formulir aplikasi secara daring melalui situs resmi visa Arab Saudi. Selanjutnya, unggah dokumen yang diperlukan seperti paspor dan foto terbaru, lalu lakukan pembayaran biaya visa. Terakhir, jadwalkan janji temu di pusat layanan resmi untuk perekaman biometrik dan penyerahan berkas fisik.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780085993.wav
+
+====================
+TIMESTAMP: 1780086093
+TRANSCRIPT:
+Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+NORMALIZED:
+Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+TAGS:
+[('Can', 'ID'), ('you', 'ID'), ('help', 'ID'), ('aku', 'ID'), ('arrange', 'ID'), ('transport', 'EN'), ('dari', 'ID'), ('Jeddah', 'ID'), ('ke', 'ID'), ('Madinah', 'ID'), ('tomorrow?', 'ID')]
+RESPONSE:
+Tentu, saya siap membantu mengatur transportasi Anda dari Jeddah ke Madinah untuk besok. Anda bisa memilih menggunakan kereta cepat Haramain, bus, atau taksi pribadi. Silakan beri tahu pilihan Anda agar bisa segera saya siapkan.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780086093.wav
+
+====================
+TIMESTAMP: 1780086370
+TRANSCRIPT:
+aku butuh travel umroh simple tapi include madinah fisik
+NORMALIZED:
+aku butuh travel umroh simple tapi include madinah fisik
+TAGS:
+[('aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umroh', 'ID'), ('simple', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('madinah', 'ID'), ('fisik', 'ID')]
+RESPONSE:
+Kami menyediakan paket umrah praktis yang sudah mencakup perjalanan langsung ke Madinah. Paket ini sudah dilengkapi dengan akomodasi hotel, visa, transportasi, dan pendampingan ibadah selama di sana. Silakan beri tahu tanggal rencana keberangkatan Anda agar kami bisa langsung menyiapkan rekomendasinya.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780086370.wav
+
+====================
+TIMESTAMP: 1780086538
+TRANSCRIPT:
+aku butuh travel umroh simple tapi include madinah fisik
+NORMALIZED:
+aku butuh travel umrah simple tapi include madinah visit
+TAGS:
+[('aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umrah', 'ID'), ('simple', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('madinah', 'ID'), ('visit', 'ID')]
+RESPONSE:
+Kami menyediakan paket umrah praktis yang sudah mencakup kunjungan ke Madinah dan Mekkah sekaligus. Paket ini sudah termasuk tiket pesawat, akomodasi di kedua kota, transportasi lokal, dan pengurusan visa secara mudah. Silakan beri tahu perkiraan tanggal keberangkatan Anda agar kami dapat segera menyiapkan pilihan paket terbaik.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780086538.wav
+
+====================
+TIMESTAMP: 1780086676
+TRANSCRIPT:
+aku butuh travel umroh simple tapi include madinah fisik
+NORMALIZED:
+aku butuh travel umrah simple tapi include madinah visit
+TAGS:
+[('aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umrah', 'ID'), ('simple', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('madinah', 'ID'), ('visit', 'ID')]
+RESPONSE:
+Kami menyediakan paket umrah praktis yang sudah termasuk kunjungan ziarah ke Madinah selama beberapa hari. Paket ini sudah mencakup akomodasi, transportasi lokal, dan bimbingan ibadah selama di tanah suci. Silakan tentukan perkiraan tanggal keberangkatan Anda agar kami dapat menyiapkan rincian programnya.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780086676.wav
+
+====================
+TIMESTAMP: 1780087225
+TRANSCRIPT:
+aku butuh travel umroh simple tapi include madinah fisik
+NORMALIZED:
+aku butuh travel umrah simple tapi include madinah visit
+TAGS:
+[('aku', 'ID'), ('butuh', 'ID'), ('travel', 'ID'), ('umrah', 'ID'), ('simple', 'ID'), ('tapi', 'ID'), ('include', 'ID'), ('madinah', 'ID'), ('visit', 'ID')]
+RESPONSE:
+Kami menyediakan pilihan paket umrah praktis yang sudah langsung mencakup perjalanan ziarah ke Madinah dan Makkah. Paket ini sudah dilengkapi dengan akomodasi hotel, transportasi lokal, serta bimbingan ibadah yang ringkas dan mudah diikuti. Silakan tentukan tanggal keberangkatan yang Anda inginkan agar kami bisa segera menyiapkan rekomendasinya.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780087225.wav
