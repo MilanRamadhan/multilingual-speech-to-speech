@@ -1,5 +1,5 @@
 import os, shutil, tempfile, time
-from fastapi import FastAPI, UploadFile, File, HTTPException
+from fastapi import FastAPI, UploadFile, File, Form, Form, HTTPException
 from fastapi.responses import FileResponse
 from app.stt import transcribe_speech_to_text
 from app.llm import generate_response
@@ -9,7 +9,7 @@ from app.utils import normalize_text, detect_languages
 app = FastAPI()
 
 @app.post("/voice-chat")
-async def voice_chat(file: UploadFile = File(...)):
+async def voice_chat(file: UploadFile = File(...), speaker: str = Form("wibowo")):
     tmp_path = None
     try:
         with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as temp_file:
@@ -40,7 +40,7 @@ async def voice_chat(file: UploadFile = File(...)):
         timestamp = int(time.time())
         os.makedirs(TEMP_DIR, exist_ok=True)
         output_audio_path = os.path.join(TEMP_DIR, f"output_{timestamp}.wav")
-        output_audio = synthesize_speech(response_text, output_path=output_audio_path)
+        output_audio = synthesize_speech(response_text, speaker_idx=speaker, output_path=output_audio_path)
 
         # LOGGING
         LOGS_DIR = os.path.join(BASE_DIR, "..", "logs")

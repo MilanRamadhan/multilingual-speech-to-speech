@@ -1,5 +1,53 @@
-.env
+# Virtual Environment
 env/
+venv/
+
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variable
+.env
+
+# Logs
+logs/
+*.log
+hs_err_pid*
+replay_pid*
+
+# Temporary files
+temp/
+
+# Audio outputs
+*.wav
+*.mp3
+
+# Whisper models
+models/
+
+# Coqui checkpoints
 *.pth
+*.pt
 *.bin
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# GitHub
+.github/
+
+# Installer
+*.msi
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/

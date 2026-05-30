@@ -79,7 +79,7 @@ def clean_text_for_tts(text: str) -> str:
         text = text[:1000].rsplit(' ', 1)[0] + "."
     return text
 
-def synthesize_speech(text: str, output_path: str = None) -> str:
+def synthesize_speech(text: str, speaker_idx: str = DEFAULT_SPEAKER, output_path: str = None) -> str:
     if output_path is None:
         os.makedirs(TEMP_DIR, exist_ok=True)
         output_path = os.path.join(TEMP_DIR, "output.wav")
@@ -106,7 +106,7 @@ def synthesize_speech(text: str, output_path: str = None) -> str:
         "--model_path", MODEL_PATH,
         "--config_path", CONFIG_PATH,
         "--speakers_file_path", SPEAKERS_PATH,
-        "--speaker_idx", DEFAULT_SPEAKER,
+        "--speaker_idx", speaker_idx,
         "--text", phoneme_fixed,
         "--out_path", output_path
     ]

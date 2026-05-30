@@ -605,3 +605,39 @@ TAGS:
 RESPONSE:
 Kami menyediakan pilihan paket umrah praktis yang sudah langsung mencakup perjalanan ziarah ke Madinah dan Makkah. Paket ini sudah dilengkapi dengan akomodasi hotel, transportasi lokal, serta bimbingan ibadah yang ringkas dan mudah diikuti. Silakan tentukan tanggal keberangkatan yang Anda inginkan agar kami bisa segera menyiapkan rekomendasinya.
 AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780087225.wav
+
+====================
+TIMESTAMP: 1780132186
+TRANSCRIPT:
+Jelaskan step by step cara booking flight ke Jeddah secara online.
+NORMALIZED:
+Jelaskan step by step cara booking flight ke Jeddah secara online.
+TAGS:
+[('Jelaskan', 'ID'), ('step', 'ID'), ('by', 'ID'), ('step', 'ID'), ('cara', 'ID'), ('booking', 'EN'), ('flight', 'EN'), ('ke', 'ID'), ('Jeddah', 'ID'), ('secara', 'ID'), ('online.', 'ID')]
+RESPONSE:
+Pertama cari tiket ke Jeddah melalui aplikasi atau situs web agen perjalanan pilihan Anda. Setelah itu pilih jadwal penerbangan yang sesuai lalu isi data diri dan nomor paspor dengan benar. Terakhir lakukan pembayaran menggunakan metode pilihan Anda untuk menerima tiket elektronik.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780132186.wav
+
+====================
+TIMESTAMP: 1780133105
+TRANSCRIPT:
+Explain step by step cara apply visa Saudi dengan benar.
+NORMALIZED:
+Explain step by step cara apply visa Saudi dengan benar.
+TAGS:
+[('Explain', 'ID'), ('step', 'ID'), ('by', 'ID'), ('step', 'ID'), ('cara', 'ID'), ('apply', 'ID'), ('visa', 'ID'), ('Saudi', 'ID'), ('dengan', 'ID'), ('benar.', 'ID')]
+RESPONSE:
+Pertama, kunjungi situs resmi pendaftaran visa Arab Saudi untuk membuat akun dan mengisi formulir secara online. Selanjutnya, unggah dokumen pendukung seperti paspor yang masih berlaku dan pasfoto terbaru lalu lakukan pembayaran biaya secara online. Terakhir, jadwalkan janji temu untuk perekaman biometrik di pusat layanan resmi jika diperlukan.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780133105.wav
+
+====================
+TIMESTAMP: 1780133317
+TRANSCRIPT:
+Explain step by step cara apply visa Saudi dengan benar.
+NORMALIZED:
+Explain step by step cara apply visa Saudi dengan benar.
+TAGS:
+[('Explain', 'ID'), ('step', 'ID'), ('by', 'ID'), ('step', 'ID'), ('cara', 'ID'), ('apply', 'ID'), ('visa', 'ID'), ('Saudi', 'ID'), ('dengan', 'ID'), ('benar.', 'ID')]
+RESPONSE:
+Anda perlu mengunjungi situs web resmi visa Arab Saudi untuk membuat akun dan mengisi formulir permohonan. Selanjutnya, unggah dokumen yang diperlukan seperti paspor dan foto terbaru, lalu lakukan pembayaran biaya visa secara daring. Setelah semua proses selesai, Anda tinggal menunggu persetujuan visa yang akan dikirimkan langsung melalui pos elektronik.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780133317.wav

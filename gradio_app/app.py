@@ -6,7 +6,7 @@ import re
 
 BACKEND_URL = "http://127.0.0.1:8000/voice-chat"
 
-def chat_with_voice(audio_path):
+def chat_with_voice(audio_path, speaker):
     if audio_path is None:
         return None, "", "", "[WARN] Belum ada audio. Silakan rekam suara terlebih dahulu."
 
@@ -15,6 +15,7 @@ def chat_with_voice(audio_path):
             response = requests.post(
                 BACKEND_URL,
                 files={"file": ("audio.wav", f, "audio/wav")},
+                data={"speaker": speaker},
                 timeout=120
             )
 
@@ -513,6 +514,12 @@ with gr.Blocks(
                 elem_id="selected-file-box"
             )
 
+            speaker_choice = gr.Radio(
+                choices=[("Pria (Wibowo)", "wibowo"), ("Wanita (Gadis)", "gadis")],
+                value="wibowo",
+                label="Pilih Suara Respons AI"
+            )
+
             submit_btn = gr.Button(
                 "PROSES AUDIO",
                 variant="primary",
@@ -568,7 +575,7 @@ with gr.Blocks(
     
     submit_btn.click(
         fn=chat_with_voice,
-        inputs=[audio_input],
+        inputs=[audio_input, speaker_choice],
         outputs=[audio_output, transcript_box, response_box, status_box]
     )
 
