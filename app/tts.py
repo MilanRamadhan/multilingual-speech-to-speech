@@ -74,7 +74,6 @@ def clean_text_for_tts(text: str) -> str:
     text = text.encode('ascii', 'ignore').decode('ascii')
     text = re.sub(r'\s+', ' ', text).strip()
     
-    # Memperpanjang limit dari 200 ke 1000 agar kalimat dari LLM tidak terpotong
     if len(text) > 1000:
         text = text[:1000].rsplit(' ', 1)[0] + "."
     return text
