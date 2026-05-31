@@ -641,3 +641,15 @@ TAGS:
 RESPONSE:
 Anda perlu mengunjungi situs web resmi visa Arab Saudi untuk membuat akun dan mengisi formulir permohonan. Selanjutnya, unggah dokumen yang diperlukan seperti paspor dan foto terbaru, lalu lakukan pembayaran biaya visa secara daring. Setelah semua proses selesai, Anda tinggal menunggu persetujuan visa yang akan dikirimkan langsung melalui pos elektronik.
 AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780133317.wav
+
+====================
+TIMESTAMP: 1780224617
+TRANSCRIPT:
+Ya akhi, uridu book flight ila Jeddah al-usbu' al-qadim. Hal bisa bantu ajida afdhal schedule wa rihlatan mubashirah?
+NORMALIZED:
+Ya akhi, uridu book flight ila Jeddah al-usbu' al-qadim. Hal bisa bantu ajida afdhal schedule wa rihlatan mubashirah?
+TAGS:
+[('Ya', 'ID'), ('akhi,', 'ID'), ('uridu', 'ID'), ('book', 'EN'), ('flight', 'EN'), ('ila', 'ID'), ('Jeddah', 'ID'), ("al-usbu'", 'ID'), ('al-qadim.', 'ID'), ('Hal', 'ID'), ('bisa', 'ID'), ('bantu', 'ID'), ('ajida', 'ID'), ('afdhal', 'ID'), ('schedule', 'EN'), ('wa', 'ID'), ('rihlatan', 'ID'), ('mubashirah?', 'ID')]
+RESPONSE:
+Baik, saya bantu carikan penerbangan ke Jeddah untuk minggu depan. Saya akan usahakan mencari jadwal terbaik dan penerbangan langsung.
+AUDIO: D:\Tugas-tugas\Tugas kuliah Milan\Semester 6\Pemrosesan Bahasa Alami\Praktikum\UAS\app\..\temp\output_1780224617.wav
